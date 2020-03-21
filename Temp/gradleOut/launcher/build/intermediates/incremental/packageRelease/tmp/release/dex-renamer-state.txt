@@ -1,0 +1,4 @@
+#Fri Mar 20 20:51:48 PDT 2020
+base.0=C\:\\Users\\ianpa\\AR Balloon Shooter\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
